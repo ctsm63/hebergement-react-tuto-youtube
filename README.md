@@ -1,5 +1,5 @@
 # Héberger une application React sur un serveur Apache.
-[Comment Héberger une App React sur un Serveur Apache ?](https://youtu.be/JBr3DIr3cIs?si=ea7Y1PRVgVJDSx-w)
+Hardcoders [Comment Héberger une App React sur un Serveur Apache ?](https://youtu.be/JBr3DIr3cIs?si=ea7Y1PRVgVJDSx-w)
 
 `.htaccess`
 
